@@ -1,2 +1,2 @@
-# Visualisasi-Saham
-Visualisasi Data Interaktif Fluktuasi Harga Saham
+# Data Visualization for Stock price 
+Interactive Data Visualization for Stock price 
